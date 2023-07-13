@@ -1,4 +1,4 @@
 # szs
 Personal Miscellaneous Repository
 
-first repo lmao
+# first repo lmao
